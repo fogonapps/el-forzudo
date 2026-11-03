@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/fogonapps/fogon/main/apps/forzudo/fastlane/metadata/android/en-US/images/icon.png" width="140" alt="El Forzudo"></p>
+
 # El Forzudo
 
 Tu cuaderno de entrenos: rutinas, descanso, récords y rangos. Sin anuncios ni rastreo; tus datos se quedan en tu teléfono.
