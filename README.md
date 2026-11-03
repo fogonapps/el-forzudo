@@ -4,7 +4,7 @@
 
 Tu cuaderno de entrenos: rutinas, descanso, récords y rangos. Sin anuncios ni rastreo; tus datos se quedan en tu teléfono.
 
-Una app de [Fogón](https://github.com/fogonapps/fogon): apps de Android libres, hechas en casa.
+Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones, sin anuncios ni rastreo.
 
 ## Instalar
 
