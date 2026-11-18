@@ -2,7 +2,9 @@
 
 # El Forzudo
 
-Tu cuaderno de entrenos: rutinas, descanso, récords y rangos. Sin anuncios ni rastreo; tus datos se quedan en tu teléfono.
+Tu cuaderno de entrenos: rutinas, descanso, récords y rangos. Sin anuncios ni rastreo.
+
+Puedes guardar un respaldo a archivo. Con tu cuenta de Fogón también puedes guardar una copia cifrada.
 
 Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones, sin anuncios ni rastreo.
 
@@ -17,4 +19,4 @@ Paquete `io.github.fogonapps.forzudo`. Certificado de firma (SHA-256): `ce540688
 
 ---
 
-**English.** Your workout notebook: routines, rest timer, records and ranks. No ads, no tracking; your data stays on your phone. Install with Obtainium (paste `https://github.com/fogonapps/el-forzudo`) or grab the APK from the [latest release](https://github.com/fogonapps/el-forzudo/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/forzudo) (GPL-3.0-or-later).
+**English.** Your workout notebook: routines, rest timer, records and ranks. No ads, no tracking. You can back up to a file and keep an encrypted copy in your Fogón account if you use one. Install with Obtainium (paste `https://github.com/fogonapps/el-forzudo`) or grab the APK from the [latest release](https://github.com/fogonapps/el-forzudo/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/forzudo) (GPL-3.0-or-later).
